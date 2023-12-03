@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Daniel",
+      "surname": "Smith",
+      "email": "danielsmith@gmail.com",
+      "phone": 5434343444
+    },
+    {
+      "id": 2,
+      "name": "Maria",
+      "surname": "Brown",
+      "email": "mariabw@gmail.com",
+      "phone": 5434642744
+    },
+    {
+      "id": 3,
+      "name": "Lydia",
+      "surname": "Connor",
+      "email": "lydiaconnor@gmail.com",
+      "phone": 5030642712
+    },
+    {
+      "id": 4,
+      "name": "Paul",
+      "surname": "Burton",
+      "email": "burtonp@gmail.com",
+      "phone": 5230964245
+    },
+    {
+      "id": "1697383236180",
+      "name": "Janet",
+      "surname": "Harlez",
+      "email": "jnt@yahoo.com",
+      "phone": 5353533
+    },
+    {
+      "id": "1701602742094",
+      "name": "Alex",
+      "surname": "Adams",
+      "email": "aadams@gmail.com",
+      "phone": 323243742
+    }
+  ]
+}
